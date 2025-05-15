@@ -8,7 +8,7 @@
 
 | 📄 Content               | 🔗 Link                                                                 |
 | -------------------------|------------------------------------------------------------------------|
-| 🔴 Live Link             | [click here]()                          |
+| 🔴 Live Link             | [click here](https://vid-tube-five.vercel.app/)                          |
 | 📈 Model                 | [click here](https://app.eraser.io/workspace/cATefMPkrAdzR9c6teox?origin=share) |
 
 ## 🚀 Features
