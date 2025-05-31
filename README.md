@@ -117,7 +117,11 @@ For any questions or suggestions, please contact me on my socials.
 ## 🙏 Acknowledgments
 
 Thanks to all my instructors.
+## Support
 
+If you face any issues or have questions about using or setting up this project, feel free to reach out to me. I’ll do my best to help you as quickly as possible.
+
+If you find this project helpful, please consider supporting me at This page [Support Me❤️!](https://thankyouforsupport.netlify.app/)
 ## 📝 License
 
 This project is licensed under [ChaiAurCode](https://www.youtube.com/@chaiaurcode).
